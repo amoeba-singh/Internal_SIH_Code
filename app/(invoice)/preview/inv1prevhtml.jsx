@@ -62,7 +62,7 @@ const inv1prevhtml = (
           page-break-inside: avoid;
         }
         th {
-          background-color: rgba(255, 0, 62, 0.8);
+          background-color: "#3187A2";
           color: white;
         }
         .total-row {
