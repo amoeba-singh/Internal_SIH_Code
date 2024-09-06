@@ -2,7 +2,7 @@
 # Invoicify
 
  # Project Details
-[(Content Table)](#table-of-contents)
+[Go Content Table](#table-of-contents)
 
 ### Overview
 
