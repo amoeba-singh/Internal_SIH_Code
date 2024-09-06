@@ -69,7 +69,7 @@ To set up Invoicify on your local machine:
 
 1. **Clone the Repository:**
     ```shell
-    git clone https://github.com/nitinjha07/Invoicify-App.git
+    git clone https://github.com/amoeba-singh/Invoicify_ReactNative.git
     cd Invoicify-App
     ```
 
@@ -85,6 +85,7 @@ To set up Invoicify on your local machine:
 
 4. **Run on Your Device:**
    - Open the Expo app on your mobile device.
+   - Machine and mobile device should be connected with same network.
    - Scan the QR code displayed in the terminal to access the live server on your device.
    - Alternatively, use Android Studio to run the app on an emulator.
 
@@ -106,7 +107,7 @@ To get started with developing Invoicify, follow these steps:
 
 1. **Clone the Repository:**
     ```shell
-    git clone https://github.com/nitinjha07/Invoicify-App.git
+    git clone https://github.com/amoeba-singh/Invoicify_ReactNative.git
     cd Invoicify-App
     ```
 
@@ -148,7 +149,7 @@ To get started with developing Invoicify, follow these steps:
 
 We welcome contributions from the community! To contribute to Invoicify, please follow these guidelines:
 
-1. **Report Issues:** If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/nitinjha07/Invoicify-App/issues) in our GitHub repository.
+1. **Report Issues:** If you find any bugs or have suggestions for improvements, please [open an issue](https://github.com/amoeba-singh/Invoicify_ReactNative/issues) in our GitHub repository.
 
 2. **Contribute Code:** 
    - Fork the repository and clone your fork locally.
